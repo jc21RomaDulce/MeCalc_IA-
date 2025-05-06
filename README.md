@@ -1,4 +1,9 @@
 # MeCalc_IA-
+
+El proyecto consiste en algunas mejoras visuales ademas de agregarle dos componentes:
+1-Modo de aprendizaje: Que es una capsula opcional de aprendizaje que se puede colocar y ademas agregar segun se requiera.
+2-Chatbot matematico: El cual es un compomente que esta enlazado con Gemini 2.0 de Google, es un asistente que permite resolver dudas sobre aspectos de la matematica en general. 
+
 Descarga el repositorio y puedes desplegar el proyecto usanod el comando:
 Recuerda de crear e instalar un proyecto usando Vite para React Js
 Servidor en desarrollo local desde VSC
